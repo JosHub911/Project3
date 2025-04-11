@@ -9,7 +9,7 @@ Ik kan rond bewegen en springen, zonder animaties nog
 
 ![9oth9z](https://github.com/user-attachments/assets/850d1aa5-ebc0-4c72-a12f-a604b2b61963)
 
-# Je kan Beweging met animaties, je hebt een first person camera met effects, en pickups!
+ Je kan Beweging met animaties, je hebt een first person camera met effects, en pickups!
 
 ![Invicniel](https://github.com/user-attachments/assets/b9595408-feda-4573-8346-3cc49e54969d)
 
